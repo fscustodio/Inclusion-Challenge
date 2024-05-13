@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Dashboards</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-13 22:02:53</sys_created_on>
+        <sys_id>93c6091b4a060210d40d66e7a8260589</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboards</sys_name>
+        <sys_package display_value="Inclusion Challenge" source="x_230699_inclusion">95936c57c3420210738258e1b40131a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inclusion Challenge">95936c57c3420210738258e1b40131a8</sys_scope>
+        <sys_update_name>sys_ux_screen_type_93c6091b4a060210d40d66e7a8260589</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-13 22:02:53</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=93c6091b4a060210d40d66e7a8260589"/>
+</record_update>

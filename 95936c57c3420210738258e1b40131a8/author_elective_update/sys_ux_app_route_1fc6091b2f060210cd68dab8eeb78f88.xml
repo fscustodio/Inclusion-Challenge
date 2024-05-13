@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Inclusion Challenge App Config">53c6091b08060210b48891de5ac46096</app_config>
+        <description/>
+        <extension_point/>
+        <fields>uuid</fields>
+        <icon/>
+        <name>KPI Details</name>
+        <optional_parameters>scoreDate,breakdowns,domain,aggregate,startDate,endDate</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>ac_kpi_details</route_type>
+        <screen_type display_value="KPI Details">5bc6091bac060210ef9c6fb48047a888</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-13 22:02:52</sys_created_on>
+        <sys_id>1fc6091b2f060210cd68dab8eeb78f88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KPI Details</sys_name>
+        <sys_package display_value="Inclusion Challenge" source="x_230699_inclusion">95936c57c3420210738258e1b40131a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inclusion Challenge">95936c57c3420210738258e1b40131a8</sys_scope>
+        <sys_update_name>sys_ux_app_route_1fc6091b2f060210cd68dab8eeb78f88</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-13 22:02:52</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Inclusion Challenge">95936c57c3420210738258e1b40131a8</application>
+        <file_path/>
+        <instance_id>73172fbd1b954a1077c7cb7b234bcb1c</instance_id>
+        <instance_name>dev252064</instance_name>
+        <name>sys_ux_app_route_1fc6091b2f060210cd68dab8eeb78f88</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Inclusion Challenge App Config">53c6091b08060210b48891de5ac46096</app_config><description/><extension_point/><fields>uuid</fields><icon/><name>KPI Details</name><optional_parameters>scoreDate,breakdowns,domain,aggregate,startDate,endDate</optional_parameters><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>ac_kpi_details</route_type><screen_type display_value="KPI Details">5bc6091bac060210ef9c6fb48047a888</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-13 22:02:52</sys_created_on><sys_id>1fc6091b2f060210cd68dab8eeb78f88</sys_id><sys_mod_count>0</sys_mod_count><sys_name>KPI Details</sys_name><sys_package display_value="Inclusion Challenge" source="x_230699_inclusion">95936c57c3420210738258e1b40131a8</sys_package><sys_policy/><sys_scope display_value="Inclusion Challenge">95936c57c3420210738258e1b40131a8</sys_scope><sys_update_name>sys_ux_app_route_1fc6091b2f060210cd68dab8eeb78f88</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-13 22:02:52</sys_updated_on></sys_ux_app_route></record_update>]]></payload>
+        <payload_hash>-1969817716</payload_hash>
+        <record_name>KPI Details</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-13 22:05:00</sys_created_on>
+        <sys_id>fa47c55bc3060210738258e1b40131f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f73fcd4f60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-13 22:05:00</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>ba47c55b5506021012ebf31184b0eef0</update_guid>
+        <update_guid_history>ba47c55b5506021012ebf31184b0eef0:-1969817716</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-13 22:05:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>0762c3840bb14ab680e4426fa244fbb9</sys_id>
+        <sys_metadata>1fc6091b2f060210cd68dab8eeb78f88</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KPI Details</sys_name>
+        <sys_package display_value="Inclusion Challenge" source="x_230699_inclusion">95936c57c3420210738258e1b40131a8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Inclusion Challenge">95936c57c3420210738258e1b40131a8</sys_scope>
+        <sys_scope_delete display_value="">34226aaad59348e8a2686d4390f09a40</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_1fc6091b2f060210cd68dab8eeb78f88</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_1fc6091b2f060210cd68dab8eeb78f88">fa47c55bc3060210738258e1b40131f0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-13 22:05:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

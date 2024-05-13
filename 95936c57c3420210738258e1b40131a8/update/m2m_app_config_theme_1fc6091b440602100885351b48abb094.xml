@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-13 22:02:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1fc6091b440602100885351b48abb094</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Inclusion Challenge" source="x_230699_inclusion">95936c57c3420210738258e1b40131a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inclusion Challenge">95936c57c3420210738258e1b40131a8</sys_scope>
+        <sys_update_name>m2m_app_config_theme_1fc6091b440602100885351b48abb094</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-13 22:02:53</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="Inclusion Challenge App Config">53c6091b08060210b48891de5ac46096</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

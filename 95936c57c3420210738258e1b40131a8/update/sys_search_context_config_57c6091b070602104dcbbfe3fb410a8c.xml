@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <collapse_attachment>false</collapse_attachment>
+        <enable_exact_match>true</enable_exact_match>
+        <evam_definition display_value="AI Search For Next Search">f78b729b53d801109fa9ddeeff7b1201</evam_definition>
+        <genius_results_limit>1</genius_results_limit>
+        <hit_highlighting>false</hit_highlighting>
+        <log_signals_server_side>false</log_signals_server_side>
+        <name>Inclusion Challenge AI Search Configuration</name>
+        <search_engine>ai_search</search_engine>
+        <search_profile display_value="inclusion-challenge-new-version Search Profile">1bc6091b770602104d0c77f67dda8295</search_profile>
+        <search_results_limit>10</search_results_limit>
+        <show_tab_counts>true</show_tab_counts>
+        <spell_check>true</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-13 22:02:53</sys_created_on>
+        <sys_id>57c6091b070602104dcbbfe3fb410a8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inclusion Challenge AI Search Configuration</sys_name>
+        <sys_package display_value="Inclusion Challenge" source="x_230699_inclusion">95936c57c3420210738258e1b40131a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inclusion Challenge">95936c57c3420210738258e1b40131a8</sys_scope>
+        <sys_update_name>sys_search_context_config_57c6091b070602104dcbbfe3fb410a8c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-13 22:02:53</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=57c6091b070602104dcbbfe3fb410a8c"/>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_synonym_dictionary">b29df374c7531010d1cfd9795cc260cd</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="inclusion-challenge-new-version Search Profile">1bc6091b770602104d0c77f67dda8295</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-13 22:02:53</sys_created_on>
+        <sys_id>9fc6091b81060210704db8ee77cf3795</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_synonym_dictionary.inclusion-challenge-new-version Search Profile</sys_name>
+        <sys_package display_value="Inclusion Challenge" source="x_230699_inclusion">95936c57c3420210738258e1b40131a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inclusion Challenge">95936c57c3420210738258e1b40131a8</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_9fc6091b81060210704db8ee77cf3795</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-13 22:02:53</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>
