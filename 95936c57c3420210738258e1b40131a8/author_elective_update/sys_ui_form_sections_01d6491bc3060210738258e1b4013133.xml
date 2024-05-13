@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="01d6491bc3060210738258e1b4013133" sys_domain="global" table="incident" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-13 22:02:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cdd6891bc3060210738258e1b40131eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">01d6491bc3060210738258e1b4013133</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">81d6891bc3060210738258e1b40131ea</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-13 22:02:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-13 22:02:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0dd6c91bc3060210738258e1b401312b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">01d6491bc3060210738258e1b4013133</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">0dd6c91bc3060210738258e1b401312a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-13 22:02:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-13 22:02:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cdd6c91bc3060210738258e1b4013151</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">01d6491bc3060210738258e1b4013133</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">4dd6c91bc3060210738258e1b4013150</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-13 22:02:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-13 22:02:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99d6c91bc3060210738258e1b4013164</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">01d6491bc3060210738258e1b4013133</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">91d6c91bc3060210738258e1b4013157</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-13 22:02:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-13 22:02:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01d6491bc3060210738258e1b4013133</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Inclusion Challenge" source="x_230699_inclusion">95936c57c3420210738258e1b40131a8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Inclusion Challenge">95936c57c3420210738258e1b40131a8</sys_scope>
+            <sys_update_name>sys_ui_form_sections_01d6491bc3060210738258e1b4013133</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-13 22:02:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Inclusion Challenge 0" name="workspace-inclusion-challenge-0">dfc6091b94060210b146713786417c8b</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Inclusion Challenge">95936c57c3420210738258e1b40131a8</application>
+        <file_path/>
+        <instance_id>73172fbd1b954a1077c7cb7b234bcb1c</instance_id>
+        <instance_name>dev252064</instance_name>
+        <name>sys_ui_form_sections_01d6491bc3060210738258e1b4013133</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="01d6491bc3060210738258e1b4013133" sys_domain="global" table="incident" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-13 22:02:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cdd6891bc3060210738258e1b40131eb</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="incident" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">01d6491bc3060210738258e1b4013133</sys_ui_form><sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">81d6891bc3060210738258e1b40131ea</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-13 22:02:59</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-13 22:02:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0dd6c91bc3060210738258e1b401312b</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="incident" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">01d6491bc3060210738258e1b4013133</sys_ui_form><sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">0dd6c91bc3060210738258e1b401312a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-13 22:02:59</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-13 22:02:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cdd6c91bc3060210738258e1b4013151</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="incident" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">01d6491bc3060210738258e1b4013133</sys_ui_form><sys_ui_section caption="Notes" display_value="Notes" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">4dd6c91bc3060210738258e1b4013150</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-13 22:02:59</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-13 22:02:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>99d6c91bc3060210738258e1b4013164</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="incident" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">01d6491bc3060210738258e1b4013133</sys_ui_form><sys_ui_section caption="Related Records" display_value="Related Records" name="incident" sys_domain="global" view="dfc6091b94060210b146713786417c8b">91d6c91bc3060210738258e1b4013157</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-13 22:02:59</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>incident</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-13 22:02:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>01d6491bc3060210738258e1b4013133</sys_id><sys_mod_count>0</sys_mod_count><sys_name>incident</sys_name><sys_overrides/><sys_package display_value="Inclusion Challenge" source="x_230699_inclusion">95936c57c3420210738258e1b40131a8</sys_package><sys_policy/><sys_scope display_value="Inclusion Challenge">95936c57c3420210738258e1b40131a8</sys_scope><sys_update_name>sys_ui_form_sections_01d6491bc3060210738258e1b4013133</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-13 22:02:58</sys_updated_on><sys_user/><view display_value="Workspace Inclusion Challenge 0" name="workspace-inclusion-challenge-0">dfc6091b94060210b146713786417c8b</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>1274664101</payload_hash>
+        <record_name>Incident</record_name>
+        <reverted_from/>
+        <source>35960917c3060210738258e1b4013146</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-13 22:02:59</sys_created_on>
+        <sys_id>51d6c91bc3060210738258e1b4013161</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f73fafc490000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-13 22:02:59</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>19d6c91b6e06021035044a15f330ba60</update_guid>
+        <update_guid_history>19d6c91b6e06021035044a15f330ba60:1274664101,49d6891b0b060210b62bbe52f3ace0e8:109968113</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-13 22:04:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>0cea5d8a712f4d759a9e8b7165f4bfa9</sys_id>
+        <sys_metadata>01d6491bc3060210738258e1b4013133</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>incident</sys_name>
+        <sys_package display_value="Inclusion Challenge" source="x_230699_inclusion">95936c57c3420210738258e1b40131a8</sys_package>
+        <sys_parent display_value="Incident">d79f659a8db0021087de63ac7f1f00a4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Inclusion Challenge">95936c57c3420210738258e1b40131a8</sys_scope>
+        <sys_scope_delete display_value="">34226aaad59348e8a2686d4390f09a40</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_01d6491bc3060210738258e1b4013133</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_01d6491bc3060210738258e1b4013133">51d6c91bc3060210738258e1b4013161</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-13 22:04:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
